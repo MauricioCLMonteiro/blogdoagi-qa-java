@@ -28,3 +28,6 @@ Edite `DriverFactory` e descomente a linha `options.addArguments("--headless=new
 
 ## CI
 Um workflow GitHub Actions foi adicionado em `.github/workflows/ci.yml` para executar `mvn test` em pushes e PRs.
+
+### Autor
+Desenvolvido por Mauricio Cordeiro Lyrio Monteiro
